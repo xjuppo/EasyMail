@@ -1,5 +1,5 @@
 name: EasyMail
-version: '${project.version}'
+version: 1.0.1
 main: me.xjuppo.easymail.EasyMail
 api-version: 1.18
 author: xJuppo
