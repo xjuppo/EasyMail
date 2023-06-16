@@ -1,0 +1,7 @@
+
+# Mailbox inventory related options
+mailbox:
+  # Maximum number of mails that can be received by a player (Default: 10)
+  max_received_mails: 10
+  # Maximum number of mails that can be sent by a player (Default: 10)
+  max_sent_mails: 10

@@ -1,0 +1,11 @@
+name: EasyMail
+version: '${project.version}'
+main: me.xjuppo.easymail.EasyMail
+api-version: 1.19
+author: xJuppo
+
+commands:
+  easymail:
+    description: Base command
+    aliases: [ em ]
+    usage: /<command> help for all commands
