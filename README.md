@@ -6,7 +6,7 @@
 
    - /easymail open | Open your mailbox
 
-   - /easymail block/unblock <player> | Block or unblock a player (The player won't be able to send any mails to you)
+   - /easymail block/unblock <player> | Block or unblock a player (The player won't be able to send any mails to the player)
 
    - /easymail help <page> | Shows usage and permissions of commands
 
