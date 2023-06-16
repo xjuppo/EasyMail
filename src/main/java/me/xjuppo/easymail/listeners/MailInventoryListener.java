@@ -20,7 +20,6 @@ public class MailInventoryListener implements Listener {
 
     @EventHandler
     public void onInventoryClick(InventoryClickEvent event) {
-        Bukkit.getLogger().log(Level.INFO, EasyMail.playerInventories.toString() + event.getWhoClicked().getUniqueId());
         if (!EasyMail.playerInventories.keySet().contains(event.getWhoClicked().getUniqueId())) {
             return;
         }
